@@ -1,4 +1,4 @@
-## 'An Ablation Study for Classifying Shapes and Weights of Garments for Robotic Continuous Perception'
+## An Ablation Study for Classifying Shapes and Weights of Garments for Robotic Continuous Perception
 -----------------------------------------------
 ## Description
 Step 1. Train a Feature Extractor Model\
