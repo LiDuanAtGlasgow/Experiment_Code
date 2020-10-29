@@ -15,4 +15,5 @@ Step 3. Evaluations of our Netowrk\
 When a feature model and an LSTM model are both obtained from trainings in Step 1 and Step 2, an evaluatio of the network will be made by a method called 'Moving Average'. MA_Shape.py and MA_Weight.py give two confusion matrices over a video sequence of unseen garments on shapes and weights. MS_Shape and MS_Weight.py give changes of Moving Averages of different shapes and weights over frames by two trace plotting figures.
 
 ---------------------------------------------------
-We have tested our networks on both depth images and RGB images, which can be found in Databases. (real/rgb and real/depth)
+Our database is available at https://gla-my.sharepoint.com/:u:/g/personal/2168518d_student_gla_ac_uk/EVTEReYCQWhGvuXjiuL5HWsBNkWiKwPmk_b0sSvFi4ySqQ?e=xqzdQQ (for depth images) and 
+https://gla-my.sharepoint.com/:u:/g/personal/2168518d_student_gla_ac_uk/EdbEzaTcjaFDmQ3kKx-vyBgBnTaW1VNNf-x_ncA9iD--Og?e=qEo7yC (for RGB images). Please put them into Database/real/ file before you train the network.
