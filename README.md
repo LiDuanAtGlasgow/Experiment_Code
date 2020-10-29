@@ -12,6 +12,7 @@ After a feature model has been obtained from Step 1, an LSTM model will be train
 
 Step 3. Evaluations of our Netowrk\
 \
-When a feature model and an LSTM model are both obtained from trainings in Step 1 and Step 2, an evluation of the network will be made by a method called 'Moving Average'. MA_Shape.py and MA_Weight.py give two confusion matrics over a video sequence of unseen garments on shapes and weights. MS_Shape.py and MS_Weight.py give changes of Moving Averages of different shapes and weights over frames by two trace plotting figures.
+When a feature model and an LSTM model are both obtained from trainings in Step 1 and Step 2, an evaluatio of the network will be made by a method called 'Moving Average'. MA_Shape.py and MA_Weight.py give two confusion matrices over a video sequence of unseen garments on shapes and weights. MS_Shape and MS_Weight.py give changes of Moving Averages of different shapes and weights over frames by two trace plotting figures.
+
 ---------------------------------------------------
 We have tested our networks on both depth images and RGB images, which can be found in Databases. (real/rgb and real/depth)
